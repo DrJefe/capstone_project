@@ -1,6 +1,8 @@
 # capstone_project
 Capstone Project for Udacity's Machiner Learning Engineer Nanodegree
 
+Project seeks to determine what information provided by hospitals is useful for machine learning algorithms in predicting patient mortality.  Using a database with medical information from over 40,000 patients, the project uses different combinations of patient featurest in prediciting mortality.  Algorithms are compared using an Area Under Curve (AUC) scoring system.  Information on AUC scoring can be found here: http://www.dataschool.io/roc-curves-and-auc-explained/  
+
 All data has been downloaded from the Mimic-III website:
 
 MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from: http://www.nature.com/articles/sdata201635
